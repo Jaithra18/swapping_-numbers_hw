@@ -1,0 +1,6 @@
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+print("before swapping")
+print("a=",a,"b=",b)
+print("after swapping")
+print("a=",b,"b=",a)
